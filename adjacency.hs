@@ -9,6 +9,8 @@ isPlanar e v = if e <= 3*v - 6  -}
 
 -- TASK ONE: Check for 3-cycles
 -- From https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/Simple%20examples#data-graph
+-- 	ONE a: Need an edge list for each vertex
+
 
 import Data.Graph
 
